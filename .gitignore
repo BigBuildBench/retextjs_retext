@@ -1,0 +1,13 @@
+coverage/
+node_modules/
+*.d.ts
+*.log
+*.map
+*.tsbuildinfo
+.DS_Store
+yarn.lock
+!/packages/retext/index.d.ts
+!/packages/retext-dutch/index.d.ts
+!/packages/retext-english/index.d.ts
+!/packages/retext-latin/index.d.ts
+!/packages/retext-stringify/index.d.ts

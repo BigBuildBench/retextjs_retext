@@ -1,0 +1,4 @@
+{
+  "extends": "../../tsconfig.json",
+  "references": [{"path": "../retext-latin/"}, {"path": "../retext-stringify/"}]
+}
